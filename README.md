@@ -9,8 +9,6 @@ Team Q
 * Huy Tu (hqtu)
 * Xi Yang (yxi2)
 
-[Github repo](https://github.com/yhong3/dbms-proj1) for good-looking readme
-
 ## Run the program
 ### Set up oracle
 Tested on Win 10 with **CMD**, POWERSHELL NOT WORKING
